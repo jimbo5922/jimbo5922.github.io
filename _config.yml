@@ -66,7 +66,7 @@ social-links:
     icon-class: fab fa-2x fa-facebook-f
 
   - name: twitter
-    url-pattern: twitter.com/__USERNAME__
+    url-pattern: twitter.com/jimbo5922
 
   - name: linkedin
     url-pattern: linkedin.com/in/__USERNAME__
@@ -90,7 +90,7 @@ social-links:
     url-pattern: pinterest.com/__USERNAME__
 
   - name: github-user
-    url-pattern: github.com/__USERNAME__
+    url-pattern: github.com/jimbo5922
     icon-class: fab fa-2x fa-github
 
   - name: gitlab-user
